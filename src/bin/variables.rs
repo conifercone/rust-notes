@@ -5,5 +5,5 @@ fn main() {
     x = 6;
     println!("The value of x is: {}", x);
     // 忽略未使用的变量
-    let _x = 5;
+    let _y = 5;
 }
